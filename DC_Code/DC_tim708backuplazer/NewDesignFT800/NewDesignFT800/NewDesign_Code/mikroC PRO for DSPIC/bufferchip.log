@@ -1,0 +1,30 @@
+0	1	mikroCdsPIC.exe -MSF -DBG -pP33EP128MC202 -GC -DL -SSA -O11111114 -fo140 -N"C:\Users\tic27\Desktop\DC_tim618\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\bufferchip.mcpds" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\uses\" -SP"C:\Users\tic27\Desktop\DC_tim618\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\tic27\Desktop\DC_tim612\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\tic27\Desktop\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\tic27\Desktop\DC_tim520\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0428_tim\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0415\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0407\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\ipm4\Desktop\latest_code_01062014\1210\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\Public\Documents\Mikroelektronika\Visual TFT\Projects\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\Packages\FAT32 Library\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\Visual TFT\Projects\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\ipm4\Desktop\latest_code_01062014\1210\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0407\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0415\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0428_tim\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\tic27\Desktop\DC_tim520\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\tic27\Desktop\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\tic27\Desktop\DC_tim612\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\tic27\Desktop\DC_tim618\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" "bufferchip.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_SPI_12.mcl" "__Lib_UART_12_p24_p33.mcl" "__Lib_PPS_33EP64MC202.mcl" "__Lib_Mmc.mcl" "__Lib_FAT32_Driver.mcl" "__Lib_FAT32_Defs.mcl" "__Lib_FAT32.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim612\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim520\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0428_tim\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0415\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0407\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\ipm4\Desktop\latest_code_01062014\1210\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\ipm4\Desktop\latest_code_01062014\1210\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0407\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0415\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0428_tim\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\tic27\Desktop\DC_tim520\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\tic27\Desktop\DC_tim612\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+diagnostics: 0	121	Loading...	 
+diagnostics: 0	126	All files Preprocessed in 109 ms	 
+diagnostics: 0	122	Compilation Started	bufferchipheader.h
+hint: 0	1004	interrupt handler (Spiinterrupt at 0x0056)	bufferchip.c
+hint: 0	1004	interrupt handler (U1interrupt at 0x002A)	bufferchip.c
+hint: 200	1163	Variable 'log' has been declared, but not used	bufferchip.c
+hint: 201	1163	Variable 'info' has been declared, but not used	bufferchip.c
+diagnostics: 299	123	Compiled Successfully	bufferchip.c
+diagnostics: 0	127	All files Compiled in 125 ms	 
+hint: 0	1144	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)
+hint: 0	1144	Static RAM (bytes): 11314   Dynamic RAM (bytes): 5070	Static RAM (bytes): 11314   Dynamic RAM (bytes): 5070
+hint: 0	1144	Used ROM (bytes): 11240 (13%)  Free ROM (bytes): 76804 (87%)	Used ROM (bytes): 11240 (13%)  Free ROM (bytes): 76804 (87%)
+diagnostics: 0	125	Project Linked Successfully	bufferchip.mcpds
+hint: 0	1004	COFF file successfully generated	COFF file successfully generated
+diagnostics: 0	128	Linked in 1685 ms	 
+diagnostics: 0	129	Project 'bufferchip.mcpds' completed: 2246 ms	 
+diagnostics: 0	103	Finished successfully: 24 Jun 2014, 15:31:23	bufferchip.mcpds

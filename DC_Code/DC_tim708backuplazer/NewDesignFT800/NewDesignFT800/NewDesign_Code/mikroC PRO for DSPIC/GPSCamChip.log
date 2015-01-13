@@ -1,0 +1,35 @@
+0	1	mikroCdsPIC.exe -MSF -DBG -pP33EP128MC202 -DL -SSA -O11111114 -fo140 -N"D:\desktopbak\github\PathMeT\DC_Code\DC_tim708backuplazer\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\GPSCamChip.mcpds" -SP"D:\Program Files\mikroC PRO for dsPIC\defs\" -SP"D:\Program Files\mikroC PRO for dsPIC\uses\" -SP"D:\desktopbak\github\PathMeT\DC_Code\DC_tim708backuplazer\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\uses\" -SP"C:\Users\tic27\Desktop\DC_tim708backuplazer\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\tic27\Desktop\DC_tim624\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\tic27\Desktop\DC_tim618\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\tic27\Desktop\DC_tim613\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\tic27\Desktop\DC_tim610\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\tic27\Desktop\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\tic27\Desktop\DC_tim520\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0429_tim\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\ipm4\Desktop\latest_code_01062014\1210\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\Public\Documents\Mikroelektronika\Visual TFT\Projects\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\Packages\FT800\Uses\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\Packages\FAT32 Library\Uses\" -SP"D:\Program Files\mikroC PRO for dsPIC\Packages\FAT32 Library\Uses\" "GPSCamChip.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Sprintf.mcl" "__Lib_SPI_12.mcl" "__Lib_UART_12_p24_p33.mcl" "__Lib_PPS_33EP64MC202.mcl" "__Lib_Mmc.mcl" "__Lib_FAT32_Driver.mcl" "__Lib_FAT32_Defs.mcl" "__Lib_FAT32.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\defs'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\uses'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim708backuplazer\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim624\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim618\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim613\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim610\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim520\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0429_tim\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\ipm4\Desktop\latest_code_01062014\1210\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Public\Documents\Mikroelektronika\Visual TFT\Projects\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\Packages\FT800\Uses'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\Packages\FAT32 Library\Uses'	 
+diagnostics: 0	121	Loading...	 
+hint: 35	1354	 warning: "/*" within comment	D:\desktopbak\github\PathMeT\DC_Code\DC_tim708backuplazer\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\GPSCamChip.c
+diagnostics: 0	122	Compilation Started	camfunctionheader.h
+hint: 0	1004	interrupt handler (Timer1Interrupt at 0x001A)	GPSCamChip.c
+hint: 0	1004	interrupt handler (SpI2interrupt at 0x0056)	GPSCamChip.c
+hint: 0	1004	interrupt handler (CameraInterrupt at 0x002A)	GPSCamChip.c
+hint: 0	1004	interrupt handler (GPSinterrupt at 0x0050)	GPSCamChip.c
+hint: 505	1163	Variable 'num' has been declared, but not used	GPSCamChip.c
+diagnostics: 656	123	Compiled Successfully	GPSCamChip.c
+warning: 584	1519	Logical expression is always: 'False'	GPSCamChip.c
+warning: 611	1519	Logical expression is always: 'False'	GPSCamChip.c
+hint: 567	1164	Variable 'error' has been eliminated by optimizer	GPSCamChip.c
+diagnostics: 0	127	All files Compiled in 110 ms	 
+hint: 0	1144	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)
+hint: 0	1144	Static RAM (bytes): 6647   Dynamic RAM (bytes): 9736	Static RAM (bytes): 6647   Dynamic RAM (bytes): 9736
+hint: 0	1144	Used ROM (bytes): 19975 (23%)  Free ROM (bytes): 68069 (77%)	Used ROM (bytes): 19975 (23%)  Free ROM (bytes): 68069 (77%)
+diagnostics: 0	125	Project Linked Successfully	GPSCamChip.mcpds
+diagnostics: 0	128	Linked in 234 ms	 
+diagnostics: 0	129	Project 'GPSCamChip.mcpds' completed: 500 ms	 
+diagnostics: 0	103	Finished successfully: 05 Jan 2015, 19:37:43	GPSCamChip.mcpds

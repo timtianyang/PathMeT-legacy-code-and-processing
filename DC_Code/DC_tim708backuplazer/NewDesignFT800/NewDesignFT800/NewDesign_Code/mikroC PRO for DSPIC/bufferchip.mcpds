@@ -1,0 +1,83 @@
+[DEVICE]
+Name=P33EP128MC202
+Clock=140000000
+[MEMORY_MODEL]
+Value=-1
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=bufferchip.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[EEPROM_DEFINITION]
+Value=
+[FILES]
+Count=1
+File0=bufferchip.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=2
+File0=bufferchip.c
+File1=bufferchipHeader.h
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=12
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\uses\
+Path2=C:\Users\tic27\Desktop\DC_tim618\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path3=C:\Users\tic27\Desktop\DC_tim612\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path4=C:\Users\tic27\Desktop\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path5=C:\Users\tic27\Desktop\DC_tim520\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path6=C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0428_tim\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path7=C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0415\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path8=C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0407\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path9=C:\Users\ipm4\Desktop\latest_code_01062014\1210\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path10=C:\Users\Public\Documents\Mikroelektronika\Visual TFT\Projects\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path11=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\Packages\FAT32 Library\Uses\
+[HEADER_PATH]
+Count=9
+Path0=C:\Users\Public\Documents\Mikroelektronika\Visual TFT\Projects\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path1=C:\Users\ipm4\Desktop\latest_code_01062014\1210\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path2=C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0407\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path3=C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0415\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path4=C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0428_tim\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path5=C:\Users\tic27\Desktop\DC_tim520\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path6=C:\Users\tic27\Desktop\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path7=C:\Users\tic27\Desktop\DC_tim612\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path8=C:\Users\tic27\Desktop\DC_tim618\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+[HEADERS]
+Count=1
+File0=bufferchipHeader.h
+[PLDS]
+Count=0
+[Useses]
+Count=12
+File0=C_Math
+File1=C_Stdlib
+File2=C_Type
+File3=C_String
+File4=Conversions
+File5=SPI
+File6=UART
+File7=FAT32
+File8=FAT32_Defs
+File9=FAT32_Driver
+File10=Mmc
+File11=Peripheral_Pin_Select
+[EXPANDED NODES]
+Node1=Sources
+Node2=Header Files
+Count=2

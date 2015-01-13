@@ -1,0 +1,110 @@
+[DEVICE]
+Name=P33EP128MC202
+Clock=140000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=NewDesign_events_code.c
+[USE_EEPROM]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[FILES]
+Count=4
+File0=NewDesign_main.c
+File1=NewDesign_events_code.c
+File2=NewDesign_driver.c
+File3=NewDesign_resources.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=3
+File0=NewDesign_events_code.c
+File1=FandH.h
+File2=NewDesign_main.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=24
+Path0=D:\Program Files\mikroC PRO for dsPIC\defs\
+Path1=D:\Program Files\mikroC PRO for dsPIC\uses\
+Path2=D:\desktopbak\github\PathMeT\DC_Code\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path3=D:\Program Files (x86)\mikroC PRO for dsPIC\defs\
+Path4=D:\Program Files (x86)\mikroC PRO for dsPIC\uses\
+Path5=C:\Users\Tim\Desktop\github\PathMeT\DC_Code\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path6=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\defs\
+Path7=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\uses\
+Path8=C:\Users\tic27\Desktop\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path9=C:\Users\tic27\Desktop\DC_tim624\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path10=C:\Users\tic27\Desktop\DC_tim618\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path11=C:\Users\tic27\Desktop\DC_tim613\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path12=C:\Users\tic27\Desktop\DC_tim612\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path13=C:\Users\Public\Documents\Mikroelektronika\Visual TFT\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path14=C:\Users\tic27\Desktop\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path15=C:\Users\tic27\Desktop\DC_tim520\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path16=C:\Users\tic27\Desktop\DC_tim\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path17=C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0415\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path18=C:\Users\ipm4\Desktop\latest_code_01062014\0121\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path19=C:\Users\ipm4\Desktop\latest_code_01062014\1210\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path20=C:\Users\Public\Documents\Mikroelektronika\Visual TFT\Projects\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path21=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\Packages\FT800\Uses\
+Path22=D:\Program Files (x86)\mikroC PRO for dsPIC\Packages\FT800\Uses\
+Path23=D:\Program Files\mikroC PRO for dsPIC\Packages\FT800\Uses\
+[HEADER_PATH]
+Count=15
+Path0=C:\Users\Public\Documents\Mikroelektronika\Visual TFT\Projects\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path1=C:\Users\ipm4\Desktop\latest_code_01062014\1210\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path2=C:\Users\ipm4\Desktop\latest_code_01062014\0121\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path3=C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0415\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path4=C:\Users\tic27\Desktop\DC_tim\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path5=C:\Users\tic27\Desktop\DC_tim520\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path6=C:\Users\tic27\Desktop\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path7=C:\Users\Public\Documents\Mikroelektronika\Visual TFT\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path8=C:\Users\tic27\Desktop\DC_tim612\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path9=C:\Users\tic27\Desktop\DC_tim613\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path10=C:\Users\tic27\Desktop\DC_tim618\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path11=C:\Users\tic27\Desktop\DC_tim624\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path12=C:\Users\tic27\Desktop\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path13=C:\Users\Tim\Desktop\github\PathMeT\DC_Code\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+Path14=D:\desktopbak\github\PathMeT\DC_Code\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\
+[HEADERS]
+Count=3
+File0=NewDesign_objects.h
+File1=NewDesign_resources.h
+File2=FandH.h
+[PLDS]
+Count=0
+[Useses]
+Count=14
+File0=String
+File1=C_String
+File2=SPI
+File3=FT800_Types
+File4=FT800_Defs
+File5=FT800
+File6=Peripheral_Pin_Select
+File7=C_Math
+File8=C_Stdlib
+File9=C_Type
+File10=UART
+File11=Conversions
+File12=Sprintf
+File13=Lcd_Constants
+[EXPANDED NODES]
+Node1=Sources
+Node2=Header Files
+Node3=Output Files
+Count=3

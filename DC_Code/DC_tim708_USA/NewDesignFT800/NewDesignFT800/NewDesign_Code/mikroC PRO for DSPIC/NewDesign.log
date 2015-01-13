@@ -1,0 +1,277 @@
+0	1	mikroCdsPIC.exe -MSF -DBG -pP33EP128MC202 -DL -SSA -O11111114 -fo140 -N"D:\desktopbak\github\PathMeT\DC_Code\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\NewDesign.mcpds" -SP"D:\Program Files\mikroC PRO for dsPIC\defs\" -SP"D:\Program Files\mikroC PRO for dsPIC\uses\" -SP"D:\desktopbak\github\PathMeT\DC_Code\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"D:\Program Files (x86)\mikroC PRO for dsPIC\defs\" -SP"D:\Program Files (x86)\mikroC PRO for dsPIC\uses\" -SP"C:\Users\Tim\Desktop\github\PathMeT\DC_Code\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\uses\" -SP"C:\Users\tic27\Desktop\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\tic27\Desktop\DC_tim624\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\tic27\Desktop\DC_tim618\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\tic27\Desktop\DC_tim613\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\tic27\Desktop\DC_tim612\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\Public\Documents\Mikroelektronika\Visual TFT\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\tic27\Desktop\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\tic27\Desktop\DC_tim520\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\tic27\Desktop\DC_tim\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0415\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\ipm4\Desktop\latest_code_01062014\0121\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\ipm4\Desktop\latest_code_01062014\1210\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\Public\Documents\Mikroelektronika\Visual TFT\Projects\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\Packages\FT800\Uses\" -SP"D:\Program Files (x86)\mikroC PRO for dsPIC\Packages\FT800\Uses\" -SP"D:\Program Files\mikroC PRO for dsPIC\Packages\FT800\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\Visual TFT\Projects\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\ipm4\Desktop\latest_code_01062014\1210\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\ipm4\Desktop\latest_code_01062014\0121\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0415\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\tic27\Desktop\DC_tim\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\tic27\Desktop\DC_tim520\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\tic27\Desktop\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\Public\Documents\Mikroelektronika\Visual TFT\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\tic27\Desktop\DC_tim612\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\tic27\Desktop\DC_tim613\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\tic27\Desktop\DC_tim618\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\tic27\Desktop\DC_tim624\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\tic27\Desktop\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"C:\Users\Tim\Desktop\github\PathMeT\DC_Code\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" -IP"D:\desktopbak\github\PathMeT\DC_Code\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC\" "NewDesign_main.c" "NewDesign_events_code.c" "NewDesign_driver.c" "NewDesign_resources.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Sprintf.mcl" "__Lib_SPI_12.mcl" "__Lib_UART_12_p24_p33.mcl" "__Lib_PPS_33EP64MC202.mcl" "__Lib_LcdConsts.mcl" "__Lib_FT800_Defs.mcl" "__Lib_FT800.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'D:\Program Files (x86)\mikroC PRO for dsPIC\defs'	 
+warning: 0	1501	Specified search path does not exist: 'D:\Program Files (x86)\mikroC PRO for dsPIC\uses'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Tim\Desktop\github\PathMeT\DC_Code\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\defs'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\uses'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim624\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim618\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim613\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim612\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Public\Documents\Mikroelektronika\Visual TFT\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim520\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\tic27\Desktop\DC_tim\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0415\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\ipm4\Desktop\latest_code_01062014\0121\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\ipm4\Desktop\latest_code_01062014\1210\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Public\Documents\Mikroelektronika\Visual TFT\Projects\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\Packages\FT800\Uses'	 
+warning: 0	1501	Specified search path does not exist: 'D:\Program Files (x86)\mikroC PRO for dsPIC\Packages\FT800\Uses'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Public\Documents\Mikroelektronika\Visual TFT\Projects\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\ipm4\Desktop\latest_code_01062014\1210\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\ipm4\Desktop\latest_code_01062014\0121\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\ipm4\Desktop\PathMeT_code\2014_ian\0415\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\tic27\Desktop\DC_tim\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\tic27\Desktop\DC_tim520\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\tic27\Desktop\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Public\Documents\Mikroelektronika\Visual TFT\DC_tim603\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\tic27\Desktop\DC_tim612\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\tic27\Desktop\DC_tim613\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\tic27\Desktop\DC_tim618\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\tic27\Desktop\DC_tim624\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\tic27\Desktop\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Tim\Desktop\github\PathMeT\DC_Code\DC_tim708_USA\NewDesignFT800\NewDesignFT800\NewDesign_Code\mikroC PRO for DSPIC'	 
+diagnostics: 0	121	Loading...	 
+diagnostics: 0	122	Compilation Started	ft800_types.h
+diagnostics: 30	123	Compiled Successfully	NewDesign_main.c
+warning: 26	1519	Logical expression is always: 'False'	NewDesign_main.c
+diagnostics: 0	122	Compilation Started	ft800_types.h
+hint: 0	1004	interrupt handler (SPI2Interrupt at 0x0056)	NewDesign_events_code.c
+hint: 0	1004	interrupt handler (smpInterrupt at 0x002A)	NewDesign_events_code.c
+hint: 121	1163	Variable 'result' has been declared, but not used	NewDesign_events_code.c
+hint: 260	1163	Variable 'temp' has been declared, but not used	NewDesign_events_code.c
+hint: 261	1163	Variable 'te' has been declared, but not used	NewDesign_events_code.c
+hint: 360	1163	Variable 'pwm_period1' has been declared, but not used	NewDesign_events_code.c
+warning: 417	1505	Suspicious pointer conversion	NewDesign_events_code.c
+warning: 445	1505	Suspicious pointer conversion	NewDesign_events_code.c
+hint: 389	1163	Variable 'Emsg' has been declared, but not used	NewDesign_events_code.c
+diagnostics: 765	123	Compiled Successfully	NewDesign_events_code.c
+hint: 258	1164	Variable 'i' has been eliminated by optimizer	NewDesign_events_code.c
+hint: 387	1164	Variable 'crossslp' has been eliminated by optimizer	NewDesign_events_code.c
+diagnostics: 0	122	Compilation Started	ft800_types.h
+warning: 116	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 116	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 116	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 116	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 116	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 116	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 116	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 116	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 116	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 116	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 116	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 116	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 116	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 235	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 235	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 235	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 235	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 235	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 283	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 283	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 283	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 283	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 305	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 305	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 305	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 305	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 305	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 328	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 328	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 328	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 328	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 328	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 351	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 351	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 351	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 351	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 351	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 374	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 374	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 374	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 374	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 374	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 397	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 397	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 397	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 397	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 397	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 420	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 420	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 420	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 420	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 420	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 442	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 442	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 442	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 442	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 555	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 555	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 555	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 555	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 577	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 577	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 577	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 577	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 577	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 602	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 602	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 602	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 602	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 602	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 626	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 626	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 626	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 626	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 626	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 650	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 650	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 650	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 650	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 650	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 671	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 671	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 671	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 671	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 694	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 694	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 694	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 694	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 694	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 721	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 721	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 721	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 721	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 721	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 807	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 807	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 807	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 807	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 807	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 956	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 956	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 956	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 956	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 986	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 986	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 986	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 986	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 986	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1008	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1008	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1008	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1008	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1073	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1073	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1073	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1073	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1095	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1095	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1095	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1095	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1095	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1118	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1118	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1118	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1118	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1118	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1141	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1141	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1141	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1141	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1141	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1164	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1164	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1164	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1164	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1164	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1187	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1187	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1187	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1187	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1187	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1209	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1209	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1209	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1209	1506	Implicit conversion of pointer to int	NewDesign_driver.c
+warning: 1716	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+hint: 2057	1163	Variable 'pEveProgressBar' has been declared, but not used	NewDesign_driver.c
+hint: 2368	1163	Variable 'pEveProgressBar' has been declared, but not used	NewDesign_driver.c
+warning: 3066	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3094	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3130	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3151	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3172	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3193	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3214	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3235	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3256	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3277	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3298	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3342	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3373	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3404	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3455	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3486	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3517	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3548	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3579	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3638	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3670	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 3701	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4329	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4353	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4381	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4405	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4436	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4467	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4498	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4526	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4569	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4593	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4618	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4644	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4670	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4696	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4722	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4753	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4784	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4815	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4846	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4877	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4908	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4939	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4967	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 4988	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 5009	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 5030	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 5051	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 5072	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 5113	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 5134	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 5155	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 5176	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 5197	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 5218	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 5239	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+warning: 5263	1508	Implicit conversion of int to ptr	NewDesign_driver.c
+diagnostics: 5350	123	Compiled Successfully	NewDesign_driver.c
+warning: 1760	1512	variable 'pwmDuty' might not have been initialized	NewDesign_driver.c
+warning: 2822	1512	variable 'Y' might not have been initialized	NewDesign_driver.c
+warning: 2822	1512	variable 'X' might not have been initialized	NewDesign_driver.c
+warning: 2823	1512	variable 'Tag' might not have been initialized	NewDesign_driver.c
+hint: 2632	1164	Variable 'ppEvent' has been eliminated by optimizer	NewDesign_driver.c
+hint: 2634	1164	Variable 'ppEventC' has been eliminated by optimizer	NewDesign_driver.c
+diagnostics: 0	122	Compilation Started	NewDesign_resources.c
+diagnostics: 0	123	Compiled Successfully	NewDesign_resources.c
+diagnostics: 0	127	All files Compiled in 3229 ms	 
+hint: 0	1144	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)
+hint: 0	1144	Static RAM (bytes): 6149   Dynamic RAM (bytes): 10232	Static RAM (bytes): 6149   Dynamic RAM (bytes): 10232
+hint: 0	1144	Used ROM (bytes): 50770 (58%)  Free ROM (bytes): 37274 (42%)	Used ROM (bytes): 50770 (58%)  Free ROM (bytes): 37274 (42%)
+diagnostics: 0	125	Project Linked Successfully	NewDesign.mcpds
+hint: 2816	1004	Possible stack overflow : recursion or cross-calling detected.	NewDesign_driver.c
+diagnostics: 0	128	Linked in 811 ms	 
+diagnostics: 0	129	Project 'NewDesign.mcpds' completed: 4399 ms	 
+diagnostics: 0	103	Finished successfully: 07 Jan 2015, 16:50:18	NewDesign.mcpds

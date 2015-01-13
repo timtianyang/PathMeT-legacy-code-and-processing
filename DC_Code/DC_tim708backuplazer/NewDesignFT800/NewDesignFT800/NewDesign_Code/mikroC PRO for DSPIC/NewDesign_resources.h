@@ -1,0 +1,5 @@
+#ifndef NEWDESIGN_RESOURCES
+#define NEWDESIGN_RESOURCES
+
+
+#endif
