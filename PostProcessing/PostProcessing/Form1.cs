@@ -734,13 +734,14 @@ namespace PostProcessing
                     {
                         newTime = new PathMetTime(currentGPSHour, currentGPSMinute, currentGPSSec, currentGPSMilliSec);
                         currentMills = newTime.subtract(StartTime) + StartTime.offset;
-                        if (currentMills == Convert.ToInt64(fields[3]))
+                        if (currentMills <= Convert.ToInt64(fields[3]))
                         {
                             stb.Append(Line.TrimEnd('\r', '\n'));
                             //append GPS to a the original line
                             if (fieldSize < 10) { stb.Append(",,,,,,,,,,,,"); }//if the line doesn't have IMU
                             stb.Append(',').Append(parsedGPSLine[i].Substring(0, 16) + Convert.ToString(currentMills) + ',' + parsedGPSLine[i].Substring(16));
                             i++;
+                            currentMills = Convert.ToInt64(fields[3]);
                         }
                         else
                         {
